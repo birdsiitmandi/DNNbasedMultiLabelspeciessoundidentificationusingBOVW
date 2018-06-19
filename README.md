@@ -31,3 +31,4 @@ Relative path for training dataset : /data/melfilter48/test_clear_pair.
   The model is then loaded using the weights in the .pkl file.
   The file then calculates the accuracy and the confusion matrix.
   
+MFCC features are extracted using feature_extract.m
